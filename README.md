@@ -35,8 +35,8 @@ GIT:
 
 .. code-block:: bash
 
-  git clone https://github.com/PriyanK7n/SatFootprintDetection
-  cd SatFootprintDetection
+  git clone https://github.com/PriyanK7n/SatFootprint
+  cd SatFootprint
   pip install -r requirements.txt
   pip install -e .
 
