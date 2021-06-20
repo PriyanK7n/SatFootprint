@@ -4,11 +4,12 @@
 ## Dataset Used:
 - This open source dataset includes 24 images (one per month) covering ~100 unique geographies. 
 - The dataset will comprise over 40,000 square kilometers of imagery and exhaustive polygon labels of building footprints in the imagery, totaling over 10 million individual annotations. 
-- The Dataset is available on [kaggle](https://www.kaggle.com/amerii/spacenet-7-multitemporal-urban-development)
+### The Dataset is available on [kaggle](https://www.kaggle.com/amerii/spacenet-7-multitemporal-urban-development)
 
+### The Dataset is available on  AWS as a Public Dataset:
 
 > Training Data
-To download ~4km x 4km imagery data cubes with associated buildings footprint labels:
+ To download ~4km x 4km imagery data cubes with associated buildings footprint labels:
 
 - aws s3 cp s3://spacenet-dataset/spacenet/SN7_buildings/tarballs/SN7_buildings_train.tar.gz . 
 - aws s3 cp s3://spacenet-dataset/spacenet/SN7_buildings/tarballs/SN7_buildings_train_csvs.tar.gz . 
