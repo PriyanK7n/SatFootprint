@@ -1,1 +1,1 @@
-# covid_CTScan_classifier
+# SatFootprintDetection
