@@ -30,7 +30,7 @@ The Models trained are stored in [GoogleDrive](https://drive.google.com/file/d/1
 
 ## Results 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZGvyBiOw4D4l/0.jpg)](https://www.youtube.com/watch?v=ZGvyBiOw4D4)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZGvyBiOw4D4/0.jpg)](https://www.youtube.com/watch?v=ZGvyBiOw4D4)
 
 ## Installation:
 ~~~~~~~~~~~~
