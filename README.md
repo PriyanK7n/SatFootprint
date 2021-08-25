@@ -18,6 +18,7 @@
 
 
 ![](https://github.com/PriyanK7n/SatFootprintDetection/blob/main/images/s7.gif)
+![](https://www.canva.com/design/DAEoIGhFi2Y/gih2THRUIOxecrlvC1ao8A/watch?utm_content=DAEoIGhFi2Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 The Data – ~100 locations, spread out across the globe and contains:
 
@@ -27,8 +28,11 @@ The Data – ~100 locations, spread out across the globe and contains:
 ## Models:
 The Models trained are stored in [GoogleDrive](https://drive.google.com/file/d/10Hk2q_D_9Y13tzT41e5o3-sLuO3gRWV2/view?usp=sharing)
 
+## Results 
 
-Installation:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZGvyBiOw4D4l/0.jpg)](https://www.youtube.com/watch?v=ZGvyBiOw4D4)
+
+## Installation:
 ~~~~~~~~~~~~
 
 GIT:
