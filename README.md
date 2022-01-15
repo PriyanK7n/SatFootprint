@@ -1,5 +1,5 @@
 # SatelliteFootprintDetection
-> This Project aims to be used for Footprint Detection of Buildings in Satellite Images by using semantic segmentation.
+> This Project aims to be used for Footprint Detection of Buildings in Satellite Images by using instance segmentation.
 
 ## Dataset Used:
 - This open source dataset includes 24 images (one per month) covering ~100 unique geographies. 
