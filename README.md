@@ -29,8 +29,7 @@ The Models trained are stored in [**GoogleDrive**](https://drive.google.com/driv
 The Whole Project is documented in this [**Blog Post**](https://priyank7n.me/2021/05/06/SatFootprint.html) 
 
 ## Results 
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZGvyBiOw4D4/0.jpg)](https://www.youtube.com/watch?v=ZGvyBiOw4D4)
+https://user-images.githubusercontent.com/44031169/159185584-08eb5679-e7ee-4c3c-b651-2639b851123e.mp4
 
 ## Installation:
 ~~~~~~~~~~~~
