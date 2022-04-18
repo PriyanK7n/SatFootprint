@@ -1,4 +1,4 @@
-# [SatelliteFootprintDetection](https://priyank7n.me/2021/05/06/SatFootprint.html)
+# [SatelliteFootprintDetection](https://priyank7n.me/2021/05/06/SatFoot.html)
 > This Project's aim is Footprint Detection of Buildings in High-Resolution Satellite Images by using instance segmentation.
 
 ## Dataset Characteristics:
@@ -26,7 +26,7 @@
 The Models trained are stored in [**GoogleDrive**](https://drive.google.com/drive/folders/1qEviop9V3YLVpssFER1LMG-Z3B8y38dJ?usp=sharing)
 
 ## BLOG POST:
-The Whole Project is documented in this [**Blog Post**](https://priyank7n.me/2021/05/06/SatFootprint.html) 
+The Whole Project is documented in this [**Blog Post**](https://priyank7n.me/2021/05/06/SatFoot.html) 
 
 ## Results 
 https://user-images.githubusercontent.com/44031169/159185584-08eb5679-e7ee-4c3c-b651-2639b851123e.mp4
